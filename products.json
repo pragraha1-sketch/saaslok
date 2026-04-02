@@ -1,0 +1,711 @@
+[
+  {
+    "id": 1,
+    "name": "Pine Labs",
+    "tagline": "Smart POS & payment terminals for retail",
+    "category": "pos",
+    "tags": [
+      "POS",
+      "Payments",
+      "Retail"
+    ],
+    "logo": "PL",
+    "color": "#2563eb",
+    "badge": "Popular",
+    "pricing": "Custom",
+    "founded": "1998",
+    "hq": "Noida",
+    "features": [
+      "Smart POS",
+      "EMI Options",
+      "UPI Payments",
+      "Analytics Dashboard",
+      "Multi-store"
+    ],
+    "trend": [
+      65,
+      70,
+      72,
+      78,
+      82,
+      88,
+      90,
+      92
+    ],
+    "social": {
+      "reddit": {
+        "score": "4.8",
+        "reviews": 497,
+        "sample": "Pine Labs has great features but customer support could be better. Still the best option."
+      },
+      "producthunt": {
+        "score": "4.6",
+        "upvotes": 268,
+        "sample": "Pine Labs just launched their new dashboard and it is incredibly powerful."
+      },
+      "x": {
+        "mentions": 605,
+        "sentiment": "85",
+        "sample": "Just integrated Pine Labs with our stack. Game changer!"
+      },
+      "linkedin": {
+        "posts": 264,
+        "engagement": "6.9K",
+        "sample": "Our team at Pine Labs just crossed 1000+ enterprise customers."
+      },
+      "g2": {
+        "score": "4.9",
+        "reviews": 76
+      },
+      "capterra": {
+        "score": "3.9",
+        "reviews": 46
+      },
+      "sentiment": {
+        "positive": 75,
+        "neutral": 15,
+        "negative": 10
+      }
+    },
+    "overallRating": "4.5",
+    "links": {
+      "website": "https://www.pinelabs.com",
+      "pricing": "https://www.pinelabs.com/contact",
+      "features": "https://www.pinelabs.com/products",
+      "docs": null
+    },
+    "googleTrends": {
+      "interestOverTime": [
+        66,
+        74,
+        78,
+        77,
+        85,
+        80,
+        85,
+        84,
+        79,
+        83,
+        77,
+        90
+      ],
+      "monthLabels": [
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "peakMonth": 11,
+      "avgInterest": 80,
+      "trendDirection": "rising",
+      "relatedQueries": [
+        "UPI POS machine",
+        "retail billing",
+        "restaurant POS",
+        "smart POS terminal"
+      ],
+      "regionBreakdown": {
+        "Maharashtra": 73,
+        "Karnataka": 72,
+        "Delhi NCR": 83,
+        "Tamil Nadu": 59,
+        "Telangana": 61
+      }
+    },
+    "googleNews": {
+      "articles": [
+        {
+          "title": "Pine Labs sees 40% growth in QR code transactions in festive season",
+          "source": "Mint",
+          "time": "5 hours ago",
+          "sentiment": "positive"
+        },
+        {
+          "title": "Indian fintech Pine Labs raises funding to accelerate POS innovation",
+          "source": "MoneyControl",
+          "time": "2 days ago",
+          "sentiment": "positive"
+        }
+      ],
+      "totalMentions": 124,
+      "last30Days": 15,
+      "sentimentBreakdown": {
+        "positive": 81,
+        "neutral": 12,
+        "negative": 7
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Shopify India",
+    "tagline": "Global ecommerce platform with India focus",
+    "category": "ecommerce",
+    "tags": [
+      "Ecommerce",
+      "D2C",
+      "Global"
+    ],
+    "logo": "SH",
+    "color": "#65a30d",
+    "badge": "Popular",
+    "pricing": "From ₹1,994/mo",
+    "founded": "2006",
+    "hq": "Global/India",
+    "features": [
+      "Storefront",
+      "Payments",
+      "Shipping",
+      "Analytics",
+      "App Store"
+    ],
+    "trend": [
+      65,
+      68,
+      72,
+      75,
+      78,
+      80,
+      82,
+      83
+    ],
+    "social": {
+      "reddit": {
+        "score": "4.3",
+        "reviews": 149,
+        "sample": "Been evaluating Shopify India for our D2C brand. The integrations are solid."
+      },
+      "producthunt": {
+        "score": "4.0",
+        "upvotes": 408,
+        "sample": "Love the UI/UX of Shopify India! Finally a product built for Indian businesses."
+      },
+      "x": {
+        "mentions": 980,
+        "sentiment": "71",
+        "sample": "Impressed by Shopify India's India-first approach. GST, UPI, everything just works."
+      },
+      "linkedin": {
+        "posts": 71,
+        "engagement": "5.2K",
+        "sample": "Excited to announce our partnership with Shopify India."
+      },
+      "g2": {
+        "score": "3.8",
+        "reviews": 371
+      },
+      "capterra": {
+        "score": "4.8",
+        "reviews": 174
+      },
+      "sentiment": {
+        "positive": 63,
+        "neutral": 19,
+        "negative": 18
+      }
+    },
+    "overallRating": "4.2",
+    "links": {
+      "website": "https://www.shopify.com/in",
+      "pricing": "https://www.shopify.com/in/pricing",
+      "features": "https://www.shopify.com/in/features",
+      "docs": "https://shopify.dev"
+    },
+    "googleTrends": {
+      "interestOverTime": [
+        60,
+        65,
+        70,
+        75,
+        80,
+        78,
+        80,
+        82,
+        80,
+        83,
+        80,
+        83
+      ],
+      "monthLabels": [
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "peakMonth": 11,
+      "avgInterest": 83,
+      "trendDirection": "rising",
+      "relatedQueries": [
+        "D2C platform",
+        "Shopify alternative India",
+        "online store India"
+      ],
+      "regionBreakdown": {
+        "Maharashtra": 80,
+        "Karnataka": 75,
+        "Delhi NCR": 90,
+        "Tamil Nadu": 65,
+        "Telangana": 70
+      }
+    },
+    "googleNews": {
+      "articles": [
+        {
+          "title": "How Shopify India is helping Indian SMBs go digital",
+          "source": "Business Standard",
+          "time": "5 hours ago",
+          "sentiment": "positive"
+        },
+        {
+          "title": "Shopify India integrates UPI Autopay for subscription commerce",
+          "source": "The Hindu BusinessLine",
+          "time": "3 days ago",
+          "sentiment": "positive"
+        }
+      ],
+      "totalMentions": 34,
+      "last30Days": 5,
+      "sentimentBreakdown": {
+        "positive": 77,
+        "neutral": 17,
+        "negative": 6
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Zoho CRM",
+    "tagline": "India-born CRM powerhouse",
+    "category": "crm",
+    "tags": [
+      "CRM",
+      "Sales",
+      "Automation"
+    ],
+    "logo": "ZO",
+    "color": "#e11d48",
+    "badge": "Popular",
+    "pricing": "From ₹800/user/mo",
+    "founded": "1996",
+    "hq": "Chennai",
+    "features": [
+      "Sales Automation",
+      "Email",
+      "Analytics",
+      "AI Zia",
+      "Mobile"
+    ],
+    "trend": [
+      55,
+      60,
+      62,
+      65,
+      70,
+      72,
+      75,
+      80
+    ],
+    "social": {
+      "reddit": {
+        "score": "4.4",
+        "reviews": 300,
+        "sample": "Zoho CRM is the best value for money CRM for Indian businesses."
+      },
+      "producthunt": {
+        "score": "3.8",
+        "upvotes": 500,
+        "sample": "Zoho CRM just launched Blueprint and it is incredibly powerful."
+      },
+      "x": {
+        "mentions": 1200,
+        "sentiment": "70",
+        "sample": "Zoho CRM integration made our sales team 3x more efficient."
+      },
+      "linkedin": {
+        "posts": 150,
+        "engagement": "8K",
+        "sample": "Zoho CRM is redefining modern commerce infrastructure in India."
+      },
+      "g2": {
+        "score": "4.4",
+        "reviews": 600
+      },
+      "capterra": {
+        "score": "3.8",
+        "reviews": 400
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      }
+    },
+    "overallRating": "4.0",
+    "links": {
+      "website": "https://www.zoho.com/crm",
+      "pricing": "https://www.zoho.com/crm/zohocrm-pricing.html",
+      "features": "https://www.zoho.com/crm/features.html",
+      "docs": "https://www.zoho.com/crm/developer"
+    },
+    "googleTrends": {
+      "interestOverTime": [
+        50,
+        55,
+        58,
+        60,
+        65,
+        68,
+        72,
+        75,
+        70,
+        78,
+        75,
+        80
+      ],
+      "monthLabels": [
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "peakMonth": 11,
+      "avgInterest": 80,
+      "trendDirection": "rising",
+      "relatedQueries": [
+        "CRM software India",
+        "sales CRM",
+        "customer management"
+      ],
+      "regionBreakdown": {
+        "Maharashtra": 75,
+        "Karnataka": 80,
+        "Delhi NCR": 70,
+        "Tamil Nadu": 90,
+        "Telangana": 65
+      }
+    },
+    "googleNews": {
+      "articles": [
+        {
+          "title": "Zoho CRM announces AI-powered lead scoring for Indian teams",
+          "source": "Mint",
+          "time": "2 days ago",
+          "sentiment": "positive"
+        }
+      ],
+      "totalMentions": 95,
+      "last30Days": 35,
+      "sentimentBreakdown": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Freshsales",
+    "tagline": "AI-powered CRM by Freshworks",
+    "category": "crm",
+    "tags": [
+      "CRM",
+      "AI",
+      "Freshworks"
+    ],
+    "logo": "FS",
+    "color": "#0891b2",
+    "badge": "Popular",
+    "pricing": "From ₹999/user/mo",
+    "founded": "2016",
+    "hq": "Chennai",
+    "features": [
+      "AI Scoring",
+      "Email",
+      "Phone",
+      "Analytics",
+      "Automation"
+    ],
+    "trend": [
+      40,
+      45,
+      50,
+      58,
+      65,
+      70,
+      75,
+      82
+    ],
+    "social": {
+      "reddit": {
+        "score": "4.9",
+        "reviews": 200,
+        "sample": "Freshsales is hands down the best CRM for growing Indian startups."
+      },
+      "producthunt": {
+        "score": "4.9",
+        "upvotes": 900,
+        "sample": "Freshsales just launched Freddy AI and it is a game changer."
+      },
+      "x": {
+        "mentions": 500,
+        "sentiment": "75",
+        "sample": "Freshsales helping us close deals 40% faster."
+      },
+      "linkedin": {
+        "posts": 80,
+        "engagement": "4K",
+        "sample": "Freshworks India crosses 1M customers."
+      },
+      "g2": {
+        "score": "4.9",
+        "reviews": 400
+      },
+      "capterra": {
+        "score": "4.4",
+        "reviews": 200
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 12,
+        "negative": 8
+      }
+    },
+    "overallRating": "4.8",
+    "links": {
+      "website": "https://www.freshworks.com/crm",
+      "pricing": "https://www.freshworks.com/crm/sales/pricing",
+      "features": "https://www.freshworks.com/crm/features",
+      "docs": "https://developers.freshworks.com"
+    },
+    "googleTrends": {
+      "interestOverTime": [
+        35,
+        40,
+        45,
+        52,
+        58,
+        62,
+        68,
+        72,
+        70,
+        75,
+        72,
+        65
+      ],
+      "monthLabels": [
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "peakMonth": 9,
+      "avgInterest": 65,
+      "trendDirection": "rising",
+      "relatedQueries": [
+        "CRM for startups India",
+        "Freshworks CRM",
+        "sales software India"
+      ],
+      "regionBreakdown": {
+        "Maharashtra": 70,
+        "Karnataka": 85,
+        "Delhi NCR": 65,
+        "Tamil Nadu": 90,
+        "Telangana": 80
+      }
+    },
+    "googleNews": {
+      "articles": [
+        {
+          "title": "Freshworks India reports strong Q3 with 35% revenue growth",
+          "source": "Economic Times",
+          "time": "1 day ago",
+          "sentiment": "positive"
+        }
+      ],
+      "totalMentions": 40,
+      "last30Days": 9,
+      "sentimentBreakdown": {
+        "positive": 82,
+        "neutral": 12,
+        "negative": 6
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "Razorpay",
+    "tagline": "Full-stack payments & banking platform",
+    "category": "payments",
+    "tags": [
+      "Payments",
+      "Banking",
+      "API"
+    ],
+    "logo": "RP",
+    "color": "#3730a3",
+    "badge": "Popular",
+    "pricing": "2% per transaction",
+    "founded": "2014",
+    "hq": "Bangalore",
+    "features": [
+      "Payment Gateway",
+      "Payouts",
+      "Banking",
+      "Subscriptions",
+      "International"
+    ],
+    "trend": [
+      60,
+      65,
+      68,
+      70,
+      72,
+      75,
+      78,
+      75
+    ],
+    "social": {
+      "reddit": {
+        "score": "3.5",
+        "reviews": 600,
+        "sample": "Razorpay is the gold standard for payment integration in India."
+      },
+      "producthunt": {
+        "score": "3.7",
+        "upvotes": 800,
+        "sample": "Razorpay X is a complete neo-banking solution."
+      },
+      "x": {
+        "mentions": 2000,
+        "sentiment": "65",
+        "sample": "Razorpay's settlement speed is unmatched in India."
+      },
+      "linkedin": {
+        "posts": 300,
+        "engagement": "12K",
+        "sample": "Razorpay becomes India's most valuable fintech startup."
+      },
+      "g2": {
+        "score": "3.5",
+        "reviews": 900
+      },
+      "capterra": {
+        "score": "3.6",
+        "reviews": 500
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 25,
+        "negative": 15
+      }
+    },
+    "overallRating": "4.0",
+    "links": {
+      "website": "https://razorpay.com",
+      "pricing": "https://razorpay.com/pricing",
+      "features": "https://razorpay.com/payment-gateway",
+      "docs": "https://razorpay.com/docs"
+    },
+    "googleTrends": {
+      "interestOverTime": [
+        55,
+        60,
+        65,
+        70,
+        72,
+        74,
+        76,
+        75,
+        73,
+        75,
+        72,
+        75
+      ],
+      "monthLabels": [
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "peakMonth": 6,
+      "avgInterest": 75,
+      "trendDirection": "rising",
+      "relatedQueries": [
+        "payment gateway India",
+        "UPI payment API",
+        "online payment integration"
+      ],
+      "regionBreakdown": {
+        "Maharashtra": 85,
+        "Karnataka": 90,
+        "Delhi NCR": 80,
+        "Tamil Nadu": 75,
+        "Telangana": 78
+      }
+    },
+    "googleNews": {
+      "articles": [
+        {
+          "title": "Razorpay launches RazorpayX current accounts with HDFC",
+          "source": "Economic Times",
+          "time": "1 day ago",
+          "sentiment": "positive"
+        },
+        {
+          "title": "Razorpay processes $90Bn in payments in FY2025",
+          "source": "YourStory",
+          "time": "3 days ago",
+          "sentiment": "positive"
+        }
+      ],
+      "totalMentions": 150,
+      "last30Days": 38,
+      "sentimentBreakdown": {
+        "positive": 65,
+        "neutral": 20,
+        "negative": 15
+      }
+    }
+  }
+]
