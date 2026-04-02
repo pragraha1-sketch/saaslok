@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-IN" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SaasLok — Discover, Compare and Choose the Best Commerce SaaS for India. Powered by real reviews from Reddit, ProductHunt, G2, Capterra, Google Trends and more.">
+  <meta property="og:title" content="SaasLok — Best Commerce SaaS for India">
+  <meta property="og:description" content="Discover, compare and choose the right commerce tools for India.">
+  <meta property="og:url" content="https://saaslok.com">
+  <title>SaasLok — Discover the Best Commerce SaaS for India</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-brand" onclick="setActiveNav('discover');showDiscoverPage()">
+      <div class="logo-icon"><i class="fas fa-bolt"></i></div>
+      <div><span>SaasLok</span><div class="india-tag">INDIA</div></div>
+    </div>
+    <div class="nav-links">
+      <a href="#" class="active" data-page="discover"><i class="fas fa-compass"></i> Discover</a>
+      <a href="#" data-page="trending"><i class="fas fa-fire"></i> Trending</a>
+      <a href="#" data-page="compare"><i class="fas fa-code-compare"></i> Compare</a>
+      <a href="#" data-page="insights"><i class="fas fa-chart-pie"></i> Insights</a>
+    </div>
+    <div class="nav-actions">
+      <div class="search-box">
+        <i class="fas fa-search"></i>
+        <input type="text" id="searchInput" placeholder="Search 83+ products...">
+      </div>
+      <button class="btn btn-primary btn-sm" onclick="showSubmitModal()"><i class="fas fa-plus"></i> Submit Tool</button>
+    </div>
+  </nav>
+  <section id="heroSection" class="hero">
+    <h1>Discover the Best <span class="gradient-text">Commerce SaaS</span> for India</h1>
+    <p>Your one-stop platform to explore, compare, and choose the right tools for modern commerce — powered by real reviews from Reddit, ProductHunt, X, LinkedIn, Google Trends, G2 and Capterra.</p>
+    <div class="hero-stats">
+      <div class="hero-stat"><div class="num" id="heroCount">83+</div><div class="label">Products Listed</div></div>
+      <div class="hero-stat"><div class="num">12</div><div class="label">Categories</div></div>
+      <div class="hero-stat"><div class="num">22K+</div><div class="label">Reviews Aggregated</div></div>
+      <div class="hero-stat"><div class="num">8</div><div class="label">Data Sources</div></div>
+    </div>
+  </section>
+  <div class="main-container">
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-title">Categories</div>
+        <div id="categoryList"></div>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-title">Price Range</div>
+        <div class="filter-group">
+          <div class="filter-chip active" onclick="setPrice(this,'all')">All</div>
+          <div class="filter-chip" onclick="setPrice(this,'free')">Free</div>
+          <div class="filter-chip" onclick="setPrice(this,'budget')">Budget</div>
+          <div class="filter-chip" onclick="setPrice(this,'enterprise')">Enterprise</div>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-title">Rating</div>
+        <div class="filter-group">
+          <div class="filter-chip active" onclick="setRating(this,0)">All</div>
+          <div class="filter-chip" onclick="setRating(this,4)">4+ star</div>
+          <div class="filter-chip" onclick="setRating(this,4.5)">4.5+ star</div>
+        </div>
+      </div>
+      <div class="sidebar-tip">
+        <div style="font-size:0.75rem;font-weight:700;color:var(--primary);margin-bottom:6px">💡 Pro Tip</div>
+        <div style="font-size:0.72rem;color:var(--text-dim);line-height:1.5">Click any product to see sentiment analysis, trend charts, and community feedback.</div>
+      </div>
+    </aside>
+    <main id="contentArea" style="flex:1;padding:1.5rem 2rem;overflow-y:auto">
+      <div id="loadingState" style="text-align:center;padding:4rem;color:var(--text-muted)">
+        <i class="fas fa-spinner fa-spin" style="font-size:2rem;margin-bottom:1rem;display:block;color:var(--primary)"></i>
+        Loading products...
+      </div>
+    </main>
+  </div>
+  <div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+    <div class="modal-content" id="modalContent"></div>
+  </div>
+  <footer class="footer">
+    <div style="font-weight:600;margin-bottom:4px">SaasLok — Discover, Compare and Choose the Best Commerce SaaS for India</div>
+    <div>Data aggregated from Reddit, ProductHunt, X.com, LinkedIn, G2, Capterra, Google Trends and Google News</div>
+    <div style="margin-top:8px;font-size:0.75rem">2026 SaasLok</div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
